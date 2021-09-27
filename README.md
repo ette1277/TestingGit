@@ -1,2 +1,0 @@
-# TestingGit
-Web design testing
